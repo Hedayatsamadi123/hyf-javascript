@@ -1,0 +1,14 @@
+body {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+
+header {
+    background-color: blue;
+    padding: 30px;
+    text-align: center;
+}
+button {
+    margin-top: 7px;
+}
